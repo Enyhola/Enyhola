@@ -10,7 +10,7 @@
 
 - 😄 My Pronouns: She/Her
 - 🌱 I’m currently learning machine learning
-- 💬 Ask me about: Vue, Jamstack
+- 💬 Ask me about: Python
 - 📫 How to reach me: [@iameniie](https://twitter.com/iameniie)
 - ⚡ Fun fact: I enjoy cooking and reading
 
