@@ -1,16 +1,18 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Eniola Ajegbemika</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/eniola-ajegbemika/">LinkedIn</a> •
+  <a href="https://twitter.com/iameniie">Twitter</a>
+</p>
+
+---
+
+✨ I'm a self-taught Machine Learning Engineer and school-taught Electrical Electronics Engineer based in Lagos, Nigeria. I’m passionate about Machine Learning, Artificial Intelligence and automation.
+
+- 😄 My Pronouns: She/Her
+- 🌱 I’m currently learning machine learning
+- 💬 Ask me about: Vue, Jamstack
+- 📫 How to reach me: [@iameniie](https://twitter.com/iameniie)
+- ⚡ Fun fact: I enjoy cooking and reading
 
 <!--
-**Enyhola/Enyhola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
